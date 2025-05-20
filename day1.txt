@@ -1,2 +1,4 @@
 i like playing games
 i enjoy telling stories
+cli in full means commanda line interface
+cli helps you create florders and file using the commmand terminal
